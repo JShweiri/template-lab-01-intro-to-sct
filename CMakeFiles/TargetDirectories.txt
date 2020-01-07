@@ -1,0 +1,4 @@
+/home/csmajs/jshwe001/template-lab-01-intro-to-sct/CMakeFiles/rebuild_cache.dir
+/home/csmajs/jshwe001/template-lab-01-intro-to-sct/CMakeFiles/edit_cache.dir
+/home/csmajs/jshwe001/template-lab-01-intro-to-sct/CMakeFiles/bigger_area_calculator.dir
+/home/csmajs/jshwe001/template-lab-01-intro-to-sct/CMakeFiles/area_calculator.dir
