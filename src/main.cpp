@@ -3,8 +3,7 @@
 
 using namespace std;
 
-int main()
-{
+int main(){
     Rectangle rect1, rect2;
     rect1.set_width(3);
     rect1.set_height(4);
